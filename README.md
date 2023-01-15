@@ -6,6 +6,7 @@
 ## Paths
 - [grind 75](https://www.techinterviewhandbook.org/grind75)
 - [3 months study plan](https://www.techinterviewhandbook.org/coding-interview-study-plan/)
+- [hacker rank preparation](https://www.hackerrank.com/interview/interview-preparation-kit)
 
 ## explanations
 - [visualized DS course](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
