@@ -2,6 +2,7 @@
 ## techniques
 ### resources
 - [Top techniques](https://www.youtube.com/playlist?list=PL6Zs6LgrJj3tDXv8a_elC6eT_4R5gfX4d)
+- [20 prob solving techniques](https://dev.to/codinglanguages/how-to-learn-not-memorize-any-algorithm-or-data-structure-analysis-of-20-problem-solving-techniques-you-must-know-d77)
 
 ## Paths
 - [grind 75](https://www.techinterviewhandbook.org/grind75)
